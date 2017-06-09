@@ -1,1 +1,1 @@
-
+This program is a game that takes a word from the list of words in words.txt and scrambles it. The user can then enter two letter to swap until the word is solved, show the solved word, or quit the game.
