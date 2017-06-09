@@ -114,7 +114,7 @@ public class RiverSimulator { // The class is named RiverSimulator
 					try { // Input entered below can be caught and handled if invalid
 						userCycles = Integer.parseInt(input.next()); // User entered cycle amount is put into userCycles
 						
-						while (userCycles <= 0) { // As long as userCycles is negative or equal to 0, program does nothing as indicated in the directions
+						while (userCycles <= 0) { // As long as userCycles is negative or equal to 0, program does nothing
 							userCycles = Integer.parseInt(input.next()); // User entered cycle amount is put into userCycles
 						}
 
